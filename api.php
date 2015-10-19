@@ -67,7 +67,7 @@
 		}
 		
 		/*
-		 *	Encode array into JSON
+		 *	Encode array into  JSON
 		*/
 		
 		private function json($data){
