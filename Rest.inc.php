@@ -1,6 +1,6 @@
 <?php
 	/* File : Rest.inc.php
-	 * Author : Arun Kumar Sekar
+	 * Author : Sagar Sreejith
 	*/
 	class REST {
 		
