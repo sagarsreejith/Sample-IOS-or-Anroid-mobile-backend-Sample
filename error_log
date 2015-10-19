@@ -1,0 +1,730 @@
+[31-May-2014 12:53:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hosterte/public_html/rest/api.php on line 58
+[22-Jul-2014 05:20:32 UTC] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE), expecting ')' in /home2/hosterte/public_html/rest/api.php on line 167
+[22-Jul-2014 05:22:24 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:23:20 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:24:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:25:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:25:25 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:26:27 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:28:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:28:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 05:29:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 168
+[22-Jul-2014 08:44:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 96
+[22-Jul-2014 08:45:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 96
+[22-Jul-2014 10:27:19 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:27:23 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:29:10 UTC] PHP Parse error:  syntax error, unexpected '$login' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:30:07 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:31:55 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:31:57 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:42:17 UTC] PHP Parse error:  syntax error, unexpected '$login' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:42:20 UTC] PHP Parse error:  syntax error, unexpected '$login' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 98
+[22-Jul-2014 10:44:12 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 101
+[22-Jul-2014 12:17:09 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:17:44 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:17:55 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:18:23 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:18:28 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:18:45 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:31:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:31:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hosterte/public_html/rest/api.php on line 221
+[22-Jul-2014 12:43:57 UTC] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home2/hosterte/public_html/rest/api.php on line 224
+[22-Jul-2014 12:44:00 UTC] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home2/hosterte/public_html/rest/api.php on line 224
+[23-Jul-2014 12:33:24 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 101
+[24-Jul-2014 13:23:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:25:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:25:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:25:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:27:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:29:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:29:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:30:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:30:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:30:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:30:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:31:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:31:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:32:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:33:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:33:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:34:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:34:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 263
+[24-Jul-2014 13:35:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:35:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:35:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:35:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:36:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:36:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:36:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 255
+[24-Jul-2014 13:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 263
+[24-Jul-2014 13:37:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:37:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:37:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:37:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:38:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:39:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:40:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 13:40:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 247
+[24-Jul-2014 17:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[24-Jul-2014 17:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[24-Jul-2014 17:59:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[24-Jul-2014 17:59:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[24-Jul-2014 17:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[24-Jul-2014 17:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[24-Jul-2014 18:01:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[24-Jul-2014 18:01:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:92) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[24-Jul-2014 18:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[24-Jul-2014 18:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:48:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:48:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:50:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:50:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:50:51 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:50:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:50:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:50:56 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:53:49 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:53:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:53:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:53:51 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:53:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:53:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 04:54:15 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:55:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 95
+[25-Jul-2014 04:56:25 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/hosterte/public_html/rest/api.php on line 93
+[25-Jul-2014 04:56:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 95
+[25-Jul-2014 04:58:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 04:58:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:94) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 05:00:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:95) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 05:00:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:95) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 05:27:33 UTC] PHP Warning:  Illegal string offset 'user_name' in /home2/hosterte/public_html/rest/api.php on line 113
+[25-Jul-2014 05:27:59 UTC] PHP Warning:  Illegal string offset 'user_name' in /home2/hosterte/public_html/rest/api.php on line 113
+[25-Jul-2014 05:28:23 UTC] PHP Warning:  Illegal string offset 'user_name' in /home2/hosterte/public_html/rest/api.php on line 113
+[25-Jul-2014 06:50:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 06:50:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 06:52:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 06:52:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 06:52:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 06:52:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 07:40:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 07:40:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 07:41:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 283
+[25-Jul-2014 07:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 07:41:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[25-Jul-2014 07:42:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[25-Jul-2014 07:42:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:250) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[05-Aug-2014 11:23:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[05-Aug-2014 11:23:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:96) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[08-Aug-2014 06:59:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/hosterte/public_html/rest/api.php on line 258
+[08-Aug-2014 07:00:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/hosterte/public_html/rest/api.php on line 258
+[08-Aug-2014 07:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:258) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[08-Aug-2014 07:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:258) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[08-Aug-2014 08:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:258) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[08-Aug-2014 08:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:258) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[08-Aug-2014 10:34:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 303
+[08-Aug-2014 10:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:302) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[08-Aug-2014 10:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:302) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[08-Aug-2014 10:37:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:302) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[08-Aug-2014 10:37:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:302) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[12-Aug-2014 06:54:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/hosterte/public_html/rest/api.php on line 258
+[12-Aug-2014 06:54:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/hosterte/public_html/rest/api.php on line 258
+[12-Aug-2014 06:59:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home2/hosterte/public_html/rest/api.php on line 289
+[12-Aug-2014 06:59:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home2/hosterte/public_html/rest/api.php on line 289
+[12-Aug-2014 07:37:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 352
+[12-Aug-2014 07:37:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 352
+[12-Aug-2014 07:38:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 352
+[12-Aug-2014 07:38:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 352
+[12-Aug-2014 07:39:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 352
+[12-Aug-2014 07:40:46 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home2/hosterte/public_html/rest/api.php on line 345
+[13-Aug-2014 06:30:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home2/hosterte/public_html/rest/api.php on line 405
+[13-Aug-2014 06:34:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:34:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:47:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:47:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:47:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 06:47:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 06:48:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:48:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 06:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 06:48:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:48:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 06:48:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 06:48:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 07:06:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:06:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:06:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:06:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:14:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:14:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:15:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:15:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 07:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 07:15:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:32:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 08:32:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 403
+[13-Aug-2014 08:34:12 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 402
+[13-Aug-2014 08:35:03 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 402
+[13-Aug-2014 08:35:23 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 402
+[13-Aug-2014 08:35:59 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 402
+[13-Aug-2014 08:38:05 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 402
+[13-Aug-2014 08:38:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:38:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:38:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:402) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:38:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:402) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:40:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:40:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:41:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:41:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:42:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/hosterte/public_html/rest/api.php on line 405
+[13-Aug-2014 08:42:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/hosterte/public_html/rest/api.php on line 405
+[13-Aug-2014 08:42:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:42:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:42:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:42:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:43:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 404
+[13-Aug-2014 08:44:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:44:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:405) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:45:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:45:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:46:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:407) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:46:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:407) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:47:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:407) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:47:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:407) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:53:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:410) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:53:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:410) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:57:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:57:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:58:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:58:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 08:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 08:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 09:01:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 09:01:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 09:02:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 09:02:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 09:03:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 09:03:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 09:04:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 09:04:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:409) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[13-Aug-2014 09:07:13 UTC] PHP Fatal error:  Cannot use [] for unsetting in /home2/hosterte/public_html/rest/api.php on line 408
+[13-Aug-2014 09:07:16 UTC] PHP Fatal error:  Cannot use [] for unsetting in /home2/hosterte/public_html/rest/api.php on line 408
+[13-Aug-2014 09:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:410) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[13-Aug-2014 09:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:410) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[14-Aug-2014 06:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:411) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[14-Aug-2014 06:26:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:411) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[14-Aug-2014 07:33:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 268
+[16-Aug-2014 14:22:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 363
+[16-Aug-2014 14:38:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 297
+[16-Aug-2014 14:39:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 297
+[19-Aug-2014 07:43:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 297
+[19-Aug-2014 07:54:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 365
+[19-Aug-2014 09:02:47 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:05:53 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:07:19 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:08:28 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:09:18 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:09:21 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:11:09 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:11:19 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:11:51 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:17:00 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 366
+[19-Aug-2014 09:18:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/hosterte/public_html/rest/api.php on line 367
+[19-Aug-2014 09:19:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:364) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[19-Aug-2014 09:19:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:364) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[19-Aug-2014 09:23:34 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 367
+[19-Aug-2014 09:24:13 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 367
+[19-Aug-2014 09:24:28 UTC] PHP Parse error:  syntax error, unexpected '$sql_data' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 367
+[19-Aug-2014 09:26:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:364) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[19-Aug-2014 09:26:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:364) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[19-Aug-2014 09:27:25 UTC] PHP Parse error:  syntax error, unexpected '$fname' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 372
+[19-Aug-2014 09:27:27 UTC] PHP Parse error:  syntax error, unexpected '$fname' (T_VARIABLE) in /home2/hosterte/public_html/rest/api.php on line 372
+[20-Aug-2014 10:57:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 337
+[20-Aug-2014 11:16:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 423
+[20-Aug-2014 11:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hosterte/public_html/rest/api.php on line 424
+[20-Aug-2014 11:17:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 11:17:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 11:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 11:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 11:19:07 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE), expecting ',' or ';' in /home2/hosterte/public_html/rest/api.php on line 440
+[20-Aug-2014 11:19:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 11:19:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 11:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 11:24:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:05:20 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home2/hosterte/public_html/rest/api.php on line 438
+[20-Aug-2014 12:05:57 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home2/hosterte/public_html/rest/api.php on line 438
+[20-Aug-2014 12:05:59 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home2/hosterte/public_html/rest/api.php on line 438
+[20-Aug-2014 12:06:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:06:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:10:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:10:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:10:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:10:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:14:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:14:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:32:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:32:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 12:34:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 12:34:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:422) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:08:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:438) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:08:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:438) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:438) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:438) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:11:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:440) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:11:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:440) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:13:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:13:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:14:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:14:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:14:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:14:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:18:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:18:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:442) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[20-Aug-2014 13:21:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:446) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[20-Aug-2014 13:21:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:446) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[21-Aug-2014 07:35:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:460) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[21-Aug-2014 07:35:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:460) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[21-Aug-2014 08:18:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:460) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[21-Aug-2014 08:18:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:460) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[21-Aug-2014 09:03:05 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 490
+[21-Aug-2014 09:03:21 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 490
+[21-Aug-2014 09:04:29 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 490
+[21-Aug-2014 09:05:02 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hosterte/public_html/rest/api.php on line 489
+[21-Aug-2014 09:05:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/hosterte/public_html/rest/api.php on line 516
+[27-Aug-2014 19:30:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:30:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:33:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:33:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:34:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:34:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:36:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:36:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:39:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:39:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:44:12 UTC] PHP Fatal error:  Function name must be a string in /home2/hosterte/public_html/rest/api.php on line 469
+[27-Aug-2014 19:45:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:45:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:47:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:47:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:55:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:55:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:55:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:55:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 19:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 474
+[27-Aug-2014 19:59:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 19:59:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 20:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 20:00:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 20:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 20:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[27-Aug-2014 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[27-Aug-2014 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:462) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:19:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:526) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:19:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:526) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:21:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 527
+[28-Aug-2014 04:21:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:21:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:22:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:22:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:23:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:23:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:28:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:28:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:532) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:33:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:33:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:37:55 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home2/hosterte/public_html/rest/api.php on line 535
+[28-Aug-2014 04:38:27 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home2/hosterte/public_html/rest/api.php on line 535
+[28-Aug-2014 04:38:54 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home2/hosterte/public_html/rest/api.php on line 535
+[28-Aug-2014 04:39:26 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home2/hosterte/public_html/rest/api.php on line 535
+[28-Aug-2014 04:39:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:39:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:40:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:40:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:41:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:41:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:43:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:43:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:44:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:44:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:46:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:46:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:51:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:51:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[28-Aug-2014 04:52:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[28-Aug-2014 04:52:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:533) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 04:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:545) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 04:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:545) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 04:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:548) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 04:42:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:548) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 04:53:28 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home2/hosterte/public_html/rest/api.php on line 556
+[30-Aug-2014 04:55:32 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home2/hosterte/public_html/rest/api.php on line 556
+[30-Aug-2014 04:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:558) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 04:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:558) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:07:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:558) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:07:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:558) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:13:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 561
+[30-Aug-2014 05:13:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 561
+[30-Aug-2014 05:14:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 561
+[30-Aug-2014 05:15:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 562
+[30-Aug-2014 05:16:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 562
+[30-Aug-2014 05:16:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:563) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:16:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:563) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:17:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 563
+[30-Aug-2014 05:17:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:17:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:21:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:21:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:23:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:23:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 05:24:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 05:24:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:560) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 19:57:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 567
+[30-Aug-2014 19:57:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 19:59:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 19:59:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:02:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 20:02:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:03:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 20:03:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:04:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 20:04:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:08:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 20:08:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:11:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 568
+[30-Aug-2014 20:11:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:12:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:12:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 570
+[30-Aug-2014 20:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:548) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 20:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:548) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 20:13:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 569
+[30-Aug-2014 20:13:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 570
+[30-Aug-2014 20:14:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:566) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 20:14:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:566) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[30-Aug-2014 20:16:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 550
+[30-Aug-2014 20:16:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 551
+[30-Aug-2014 20:24:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 550
+[30-Aug-2014 20:24:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/hosterte/public_html/rest/api.php on line 551
+[30-Aug-2014 20:26:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:552) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[30-Aug-2014 20:26:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:552) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[01-Sep-2014 18:47:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[01-Sep-2014 18:47:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[01-Sep-2014 18:49:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[01-Sep-2014 18:49:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[01-Sep-2014 18:54:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[01-Sep-2014 18:54:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[01-Sep-2014 18:55:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 115
+[01-Sep-2014 18:55:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hosterte/public_html/rest/api.php:529) in /home2/hosterte/public_html/rest/Rest.inc.php on line 116
+[02-Sep-2014 07:28:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 590
+[02-Sep-2014 11:22:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 590
+[02-Sep-2014 17:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 534
+[02-Sep-2014 17:35:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 547
+[02-Sep-2014 18:36:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hosterte/public_html/rest/api.php on line 534
+[02-Sep-2014 18:36:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hosterte/public_html/rest/api.php on line 547
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[15-Sep-2014 10:37:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[15-Sep-2014 10:37:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:37:52 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:37:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 10:38:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:38:10 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:38:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 10:39:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:39:32 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[15-Sep-2014 10:39:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[15-Sep-2014 10:40:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:40:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[15-Sep-2014 10:40:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[15-Sep-2014 10:41:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[15-Sep-2014 10:41:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:41:24 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:41:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 10:42:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:42:18 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[15-Sep-2014 10:42:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[15-Sep-2014 10:42:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:42:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[15-Sep-2014 10:42:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 357
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 358
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 387
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 387
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 388
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 388
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 390
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 390
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 391
+[15-Sep-2014 10:43:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 392
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[15-Sep-2014 10:45:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[15-Sep-2014 10:45:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:45:44 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:45:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 10:47:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:47:20 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:47:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 10:50:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:50:05 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[15-Sep-2014 10:50:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[15-Sep-2014 10:51:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[15-Sep-2014 10:52:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 10:52:03 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 10:52:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 11:08:50 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 11:08:50 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 11:08:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 11:53:53 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 11:53:53 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 11:53:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 11:54:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 11:54:00 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 11:54:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[15-Sep-2014 13:07:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[15-Sep-2014 13:07:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[15-Sep-2014 13:07:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:08:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:09:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:09:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:09:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:10:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:15:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:17:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:20:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 211
+[19-Sep-2014 05:20:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 211
+[19-Sep-2014 05:24:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 204
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 205
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 208
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 209
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 05:24:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 227
+[19-Sep-2014 11:56:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 19:37:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[19-Sep-2014 19:37:31 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[19-Sep-2014 19:37:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[20-Sep-2014 19:06:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[20-Sep-2014 19:06:49 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[20-Sep-2014 19:06:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[23-Sep-2014 00:26:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[23-Sep-2014 00:26:14 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[23-Sep-2014 00:26:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[23-Sep-2014 20:45:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[23-Sep-2014 20:45:14 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 659
+[23-Sep-2014 20:45:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 660
+[25-Sep-2014 08:43:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[25-Sep-2014 08:43:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[25-Sep-2014 08:43:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[25-Sep-2014 08:43:59 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 331
+[25-Sep-2014 08:43:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 332
+[25-Sep-2014 08:48:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 332
+[25-Sep-2014 08:48:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[25-Sep-2014 08:48:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 268
+[25-Sep-2014 08:49:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hosterte_users'@'localhost' (using password: YES) in /home2/hoster/public_html/rest/api.php on line 58
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 259
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 259
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 260
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 263
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 263
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_insert_id(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 264
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 264
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hoster/public_html/rest/api.php on line 266
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 266
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 267
+[25-Sep-2014 08:49:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 268
+[29-Sep-2014 06:09:53 UTC] PHP Warning:  mysql_connect(): Too many connections in /home2/hoster/public_html/rest/api.php on line 58
+[21-Oct-2014 11:17:32 UTC] PHP Warning:  mysql_connect(): Too many connections in /home2/hoster/public_html/rest/api.php on line 58
+[21-Oct-2014 11:17:32 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 594
+[21-Oct-2014 11:17:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/hoster/public_html/rest/api.php on line 595
+[21-Oct-2014 11:17:32 UTC] PHP Warning:  mysql_query(): Too many connections in /home2/hoster/public_html/rest/api.php on line 613
+[21-Oct-2014 11:17:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/hoster/public_html/rest/api.php on line 613
+[30-Oct-2014 05:48:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/hoster/public_html/rest/api.php on line 791
+[30-Oct-2014 08:12:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/hoster/public_html/rest/api.php on line 943
+[30-Oct-2014 08:12:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/hoster/public_html/rest/api.php on line 943
+[03-Nov-2014 06:40:56 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/hoster/public_html/rest/api.php on line 987
+[03-Nov-2014 06:43:03 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/hoster/public_html/rest/api.php on line 987
+[03-Nov-2014 07:13:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/hoster/public_html/rest/api.php on line 1008
+[03-Nov-2014 07:13:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/hoster/public_html/rest/api.php on line 1008
+[03-Nov-2014 07:14:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/hoster/public_html/rest/api.php on line 1008
+[04-Nov-2014 07:52:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home2/hoster/public_html/rest/api.php on line 1013
+[04-Nov-2014 10:08:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/hoster/public_html/rest/api.php on line 591
+[04-Nov-2014 10:20:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:23:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:25:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:26:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:27:51 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:28:54 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:29:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:32:06 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:33:02 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:33:37 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:34:27 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:35:41 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[04-Nov-2014 10:35:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/hoster/public_html/rest/api.php on line 595
+[08-Nov-2014 11:08:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 474
+[08-Nov-2014 17:31:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 474
+[10-Nov-2014 09:07:59 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 09:08:09 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:13:16 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:13:18 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:13:32 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:13:34 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:14:53 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[10-Nov-2014 20:15:43 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 05:41:02 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 05:41:15 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:04:32 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:05:18 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:05:32 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:05:54 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:11:09 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:19:55 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:29:19 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:29:50 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:44:10 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:44:20 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:44:29 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 06:45:34 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 08:03:04 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 08:37:54 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 08:38:25 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 08:38:25 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 983
+[11-Nov-2014 09:03:21 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 984
+[11-Nov-2014 09:04:10 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 982
+[11-Nov-2014 09:04:14 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 982
+[11-Nov-2014 09:19:56 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 982
+[11-Nov-2014 09:21:18 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 982
+[11-Nov-2014 09:22:41 UTC] PHP Parse error:  syntax error, unexpected '$error' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/hoster/public_html/rest/api.php on line 982
+[17-Nov-2014 05:26:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 1073
+[18-Nov-2014 06:47:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 475
+[18-Nov-2014 06:47:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 475
+[18-Nov-2014 06:53:27 UTC] PHP Parse error:  syntax error, unexpected ''user_typ' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home2/hoster/public_html/rest/api.php on line 204
+[18-Nov-2014 08:02:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 1084
+[18-Nov-2014 09:53:23 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home2/hoster/public_html/rest/api.php on line 1131
+[18-Nov-2014 10:06:26 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home2/hoster/public_html/rest/api.php on line 1153
+[18-Nov-2014 10:06:29 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home2/hoster/public_html/rest/api.php on line 1153
+[18-Nov-2014 10:06:52 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home2/hoster/public_html/rest/api.php on line 1153
+[18-Nov-2014 10:55:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 478
+[18-Nov-2014 11:00:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 478
+[18-Nov-2014 11:00:23 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home2/hoster/public_html/rest/api.php on line 477
+[18-Nov-2014 11:02:17 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/hoster/public_html/rest/api.php on line 477
+[18-Nov-2014 11:03:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 479
+[18-Nov-2014 11:04:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 478
+[18-Nov-2014 11:04:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/hoster/public_html/rest/api.php on line 478
+[18-Nov-2014 11:06:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hoster/public_html/rest/api.php:477) in /home2/hoster/public_html/rest/Rest.inc.php on line 115
+[18-Nov-2014 11:06:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/hoster/public_html/rest/api.php:477) in /home2/hoster/public_html/rest/Rest.inc.php on line 116
